@@ -10,4 +10,4 @@
 * Pratik Patel
 * Michael Kiros
 
-![Group picture](images/group_picture.jpg)
+![Group picture](images/group_picture.png)
