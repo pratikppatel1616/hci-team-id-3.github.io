@@ -1,7 +1,7 @@
 # Presentation
 
 ## Sketch
-![Sketch of UI](images/sketch.jpg)
+![Sketch of UI](images/sketch.png)
 
 ## Team members
 * Jason Mba
