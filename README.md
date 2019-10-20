@@ -1,7 +1,7 @@
 # Presentation
 
 ## Sketch
-[Sketch of UI](images/sketch.jpg)
+![Sketch of UI](images/sketch.jpg)
 
 ## Team members
 * Jason Mba
@@ -10,4 +10,4 @@
 * Pratik Patel
 * Michael Kiros
 
-[Group picture](images/group_picture.jpg)
+![Group picture](images/group_picture.jpg)
