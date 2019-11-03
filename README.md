@@ -17,7 +17,6 @@
     * News feed
     * Messages (SMS)
 * Other information
-    * Stock market
     * Spotify player
 
 ## How far did you go with the implementation?
