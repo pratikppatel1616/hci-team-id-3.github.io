@@ -10,10 +10,7 @@
     * Weather
     * Events calendar
     * Health
-        * Sleep (length of sleep)
-        * Weight/height
-        * Exercise
-        * Screen time
+        *Steps 
     * News feed
     * Messages (SMS)
 * Other information
